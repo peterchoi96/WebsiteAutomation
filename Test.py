@@ -4,7 +4,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from HomePage import HomePage
 from PartnerPage import PartnerPage
 from EcosystemPage import EcosystemPage
-
 import time
 
 
